@@ -41,4 +41,15 @@ DESCRIPTION
        directory recursion or filename globbing performed by Git (quote your
        globs before the shell) will be silently ignored. The git add command
        can be used to add ignored files with the -f (force) option.
-answer 4 :          
+answer 4 : 
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .README.md.swp
